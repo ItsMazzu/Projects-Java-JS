@@ -1,6 +1,6 @@
 <h1>Trabalho Acadêmico: Javascript</h1>
 <h2>
-  CRUD básico de API
+  CRUD básico de API<br>
   API consumida: PokeAPI
 </h2>
 <h3><i>STACK</i></h3>
