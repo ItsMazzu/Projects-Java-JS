@@ -26,7 +26,7 @@
 <h1>Trabalho Acadêmico: Java<br>
 Academic Project: Java
 </h1>
-<h2>Site: GameLib</h2>
+<h2>Simple Website: GameLib</h2>
 
 <h3><i>STACK</i></h3>
 <ul>
