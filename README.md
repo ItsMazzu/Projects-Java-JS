@@ -4,10 +4,12 @@
   EN: Repository dedicated to completed academic projects, emphasizing Java and JavaScript development.
 </summary>
 
-<h1>Trabalho Acadêmico: Javascript</h1>
+<h1>Trabalho Acadêmico: Javascript<br>
+  Academic Project: Javascript
+</h1>
 <h2>
-  CRUD básico de API<br>
-  API consumida: PokeAPI
+  API CRUD<br>
+  API: PokeAPI
 </h2>
 <h3><i>STACK</i></h3>
 <ul>
@@ -21,7 +23,9 @@
   EN: This API acts like a Pokédex, showing some info about the chosen pokémon.
 </section>
 
-<h1>Trabalho Acadêmico: Java</h1>
+<h1>Trabalho Acadêmico: Java<br>
+Academic Project: Java
+</h1>
 <h2>Site: GameLib</h2>
 
 <h3><i>STACK</i></h3>
