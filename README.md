@@ -4,8 +4,8 @@
   EN: Repository dedicated to completed academic projects, emphasizing Java and JavaScript development.
 </summary>
 
-<h1>Trabalho Acadêmico: Javascript<br>
-  Academic Project: Javascript
+<h1>Trabalho Acadêmico: JavaScript<br>
+  Academic Project: JavaScript
 </h1>
 <h2>
   API CRUD<br>
