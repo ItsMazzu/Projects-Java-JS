@@ -30,6 +30,8 @@ Academic Project: Java
 
 <h3><i>STACK</i></h3>
 <ul>
+  <li>HTML</li>
+  <li>CSS</li>
   <li>Java</li>
   <li>Maven</li>
   <li>Spring Boot</li>
